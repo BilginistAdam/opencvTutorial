@@ -1,0 +1,1 @@
+We are using graysacel format of an image for image or video processing. Normal formta image has 3 base colors and alpha segment, but grayscale format of an image has a color. So image processing with grayscale format is more easier than normal format of an image.
